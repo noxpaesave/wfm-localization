@@ -1,8 +1,8 @@
 {
   "translation": {
-    "app.disclaimer.de": "{warframeMarket} is a fan site not associated with {digitalExtremes}",
+    "app.disclaimer.de": "{warframeMarket} È una fan page non associata a{digitalExtremes}",
     "app.general.title": "Warframe Market",
-    "app.general.description": "The leading Warframe trading platform for tenno, where you can buy and sell vaulted & unvaulted items along with  Waframe sets, Parts, Weapons, Mods, Relics, Blueprints, Captura scenes, Rivens and Kuva liches.",
+    "app.general.description": "la pagina di trading principale per tenno, dove puoi acquistare e vendere oggetti che si trovano all'interno o all'esterno del Prime Vault insieme ai warframe sets, Parts, Weapons, Mods, Relics, Blueprints, Captura scenes, Rivens and Kuva liches.",
     "app.general.meta.tags": "warframe,market,buy,sell,trade,mod,blueprint,syndicate,relic,order,auction,wts,wtb,sales,worth,platinum,price,checking",
     "app.form.field_required": "Field required",
     "app.form.can_not_be_null": "Can't be null",
